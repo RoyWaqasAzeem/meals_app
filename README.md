@@ -16,7 +16,7 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 
-Screenshots: 
+Screenshots:  
 ![Picture 1](./assets/github_meals_app_screenShots/mealsapp1.jpeg)
 ![Picture 1](./assets/github_meals_app_screenShots/mealsapp2.jpeg)
 ![Picture 1](./assets/github_meals_app_screenShots/mealsapp3.jpeg)
